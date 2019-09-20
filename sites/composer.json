@@ -1,0 +1,12 @@
+{
+    "name": "p-ab/phalcon-sites",
+    "authors": [
+        {
+            "name": "Pavel Abramov",
+            "email": "pashaabramov92@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
